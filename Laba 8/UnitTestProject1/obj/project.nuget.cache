@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBcVoH+ruEWiKTrmpkPNr6zXtuf4lD7s0ZAEs0FHPOQH8o89RMrTrUQanB6HztGHP4rHfpyaVZnNhKrXsfmMZA==",
+  "dgSpecHash": "wLuaT0YqrGUxSAlgY26t8vAUsosCdhA91SkKpLxF3a/1FO6rr9ZF7kWEw3NIHaLm1qLoSjAoy883Apj1DbIKUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
+  "projectFilePath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krayn\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\krayn\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\Laba 8.csproj": {
+    "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\Laba 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\Laba 8.csproj",
+        "projectUniqueName": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\Laba 8.csproj",
         "projectName": "Laba 8",
-        "projectPath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\Laba 8.csproj",
+        "projectPath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\Laba 8.csproj",
         "packagesPath": "C:\\Users\\krayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\obj\\",
+        "outputPath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\krayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\Laba 8.csproj": {
-                "projectPath": "C:\\Users\\krayn\\Documents\\БГТУ\\5_semestr\\EPAM\\Laba 8\\Laba 8\\Laba 8\\Laba 8.csproj"
+              "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\Laba 8.csproj": {
+                "projectPath": "C:\\Users\\krayn\\Documents\\unittest\\UnitTest\\Laba 8\\Laba 8\\Laba 8.csproj"
               }
             }
           }
